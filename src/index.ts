@@ -1,6 +1,3 @@
-/// <reference lib="dom" />
-/// <reference lib="dom.iterable" />
-
 import { concatenation } from './concatenation';
 
 const button = document.querySelector('button')!;
